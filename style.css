@@ -188,3 +188,12 @@ footer {
     transform: translateY(50px);
     transition: all 0.6s ease-in-out;
 }
+.product img {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 130px;
+    margin: 0 auto 15px;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+}
